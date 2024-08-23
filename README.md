@@ -14,3 +14,6 @@ This is a multi-class classification problem, meaning that there are more than t
 - Fit your model: Execute the model using data.
 - Evaluate your model: Evaluate the model on training dataset
 - Make predictions. Use the model to generate predictions on new data.
+
+### Conclusion
+After making predictions with our deep learning model on the COVID-19 healthcare dataset, we achieved an overall accuracy of % with notable performance in predicting severe cases. However, challenges such as data imbalance and occasional misclassifications highlight areas for improvement. In a real-world healthcare setting, our model’s predictions could assist in early intervention and resource allocation, though careful consideration of ethical implications is necessary. Future work will focus on refining the model and validating its predictions on new datasets, with the goal of enhancing its reliability and applicability in clinical practice.
